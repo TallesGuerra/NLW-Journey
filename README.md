@@ -5,14 +5,18 @@
 <p align="center">Este projeto foi em uma serie de projetos do mês de Julho para prática e aperfeiçoamento do Javascript</p>
 
 <p align="center">
-  <img alt="preview" src="/img/preview.png" width="100%">
+  <img alt="preview" src="/src/preview.png" width="100%">
 </p>
 
 <br/>
 
 # 🔨 Funcionalidades do projeto
 
-`Funcionalidade 1`: Relógio com atualização automática. 
+`Funcionalidade 1`: Inclusao de items da lista através do JS. 
+
+`Funcionalidade 1`: Datas e horários selecionáveis. 
+
+`Funcionalidade 1`: botao de checked e unchecked nas tarefas. 
 
 
 <br/>
@@ -28,4 +32,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <br/>
 
-# 💻 Você pode acessar [aqui]()
+# 💻 Você pode acessar [aqui](https://tallesguerra.github.io/NLW-Journey/)
